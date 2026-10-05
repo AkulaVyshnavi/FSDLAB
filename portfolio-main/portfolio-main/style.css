@@ -1,0 +1,135 @@
+img{
+    width:250px;
+    height:250px;
+}
+body{
+    margin:0;
+    font-size:15px;
+    margin-bottom:20px;
+}
+table{
+    border-collapse:collapse;
+}
+th,td{
+    border:2px solid black;
+    padding:10px;
+}h1{
+    color:#2196f3;
+    font-size: 50px;
+}
+header{
+    background-color: #2196f3;
+    height:100vh;
+    color:white;
+    padding:20px;
+}
+header h1{
+    color:white;
+}
+*{
+    font-family:monospace;
+}
+.sub{
+    height:40px;
+    width:140px;
+    border-radius:10px;
+    cursor:pointer;
+    text-color:white;
+    
+}
+.sub:hover{
+    background-color:darkslategray;
+}
+section{
+    height:100vh;
+    border:1px solid gray;
+    padding:20px;
+    border-radius:40px;
+    margin-botttom:20px;
+}
+main{
+    padding:20px;
+}
+footer{
+     padding:20px;
+}
+#Skills {
+    margin-bottom: 20px;
+}
+#About {
+    margin-bottom: 20px;
+}
+#QualificationDetails {
+    margin-bottom: 20px;
+}
+#Contact {
+    margin-bottom: 20px;
+}
+.submit:hover{
+   cursor:pointer;
+   background-color: green;
+}
+.submit{
+    border-radius:10px;
+    height:40px;
+    width:140px;
+   
+    text:white;
+}
+footer{
+    height:100px;
+    background-color: gray;
+    text:white;
+}
+.Top{
+    position:fixed;
+    right:10px;
+    bottom:10px;
+    height:70;
+    width:70;
+    border:2px solid black;
+    border-radius:50%;
+    cursor:pointer;
+    background-color: blue;
+    
+}
+header{
+    text-align:center;
+}
+#Contact{
+    text-align:center;
+}
+table {
+    width: 100%;
+}
+
+th,
+td {
+    text-align: center;
+}
+#QualificationDetails{
+    text-align:center;
+}
+table {
+    width: 100%;
+}
+#Skills{
+    
+    text-align: center;
+}
+
+#Skills ul {
+    list-style:none;
+    text-align: center;
+}
+table {
+    width: 100%;
+}
+
+#About {
+    text-align: center;
+}
+html{
+    scroll-behavior:smooth;
+}
+
